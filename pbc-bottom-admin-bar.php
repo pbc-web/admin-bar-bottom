@@ -18,7 +18,7 @@ class pbcMoveAdminBar {
 
 	function move_admin_bar() {
 
-		if(!current_user_can('manage_options')) {
+		if(!is_admin_bar_showing()) {
 			return;
 		}
 
