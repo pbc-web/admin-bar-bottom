@@ -3,7 +3,8 @@ Contributors: stewarty, poweredbycoffee, gwhytester
 Tags: admin-bar
 Requires at least: 
 Tested up to: 4.8
-Stable tag: 
+Stable tag: trunk
+Version: 1.0
 
 Moves the Admin Bar to the bottom of the screen
 
